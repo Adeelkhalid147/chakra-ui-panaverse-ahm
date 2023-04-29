@@ -60,6 +60,7 @@ export default function Banner() {
                 <Text color={"purple.400"} m={"20px"}>Created by Adeel Khalid</Text>
                 </Flex>
               </Box>
+              
               <Box
                 mt={{ lg: "-80px", base: "0" }}
                 flexBasis={{ lg: "50%", base: "0%" }}
